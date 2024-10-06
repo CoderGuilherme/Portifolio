@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { projects } from "../../../data";
+import { projects } from "../../data";
 import Typography from "../../Components/Typograph";
 import { colors } from "../../utils/colors";
 import StatusChip from "../../Components/chipStatusProject";

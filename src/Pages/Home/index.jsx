@@ -1,7 +1,7 @@
 import React from "react";
 import Typography from "../../Components/Typograph/index.jsx";
 import { colors } from "../../utils/colors.js";
-import { projects } from "../../../data.js";
+import { projects } from "../../data.js";
 import ProjectCard from "../../Components/projectCard/index.jsx";
 
 // Importação correta dos ícones

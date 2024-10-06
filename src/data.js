@@ -1,11 +1,9 @@
-import capa_sea from "../Portifolio/src/assets/SeaSense-capa.png"
-import tela_sea from "../Portifolio/src/assets/SeaSense-tela.png"
-
-
-import pythonIcon from "../Portifolio/src/assets/python-icon.svg"
-import pandasIcon from "../Portifolio/src/assets/pandas-icon.svg"
-import streamlitIcon from "../Portifolio/src/assets/streamlit-icon.svg"
-import plotlyIcon from "../Portifolio/src/assets/plotly-icon.svg"
+import capa_sea from "../src/assets/SeaSense-capa.png"
+import tela_sea from "../src/assets/SeaSense-tela.png"
+import pythonIcon from "../src/assets/python-icon.svg"
+import pandasIcon from "../src/assets/pandas-icon.svg"
+import streamlitIcon from "../src/assets/streamlit-icon.svg"
+import plotlyIcon from "../src/assets/plotly-icon.svg"
 
 export const projects = [
   {
