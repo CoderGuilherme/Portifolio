@@ -3,6 +3,7 @@ import Typography from "../../Components/Typograph/index.jsx";
 import { colors } from "../../utils/colors.js";
 import { projects } from "../../data.js";
 import ProjectCard from "../../Components/projectCard/index.jsx";
+import Perfil from "../../assets/perfil.jpg"
 
 // Importação correta dos ícones
 import htmlIcon from "../../assets/htmlIcon.svg";
@@ -60,7 +61,7 @@ function Home() {
 
         <div className="w-40 h-40 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-full border-4 border-solid border-brandPrimary border-gradient-to-r from-purple-400 via-pink-500 to-blue-500 overflow-hidden">
           <img
-            src="src/assets/perfil.jpg"
+            src="../src/assets/perfil.jpg"
             alt="Perfil Image"
             className="w-full h-full object-cover rounded-full"
           />
