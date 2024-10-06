@@ -61,7 +61,7 @@ function Home() {
 
         <div className="w-40 h-40 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-full border-4 border-solid border-brandPrimary border-gradient-to-r from-purple-400 via-pink-500 to-blue-500 overflow-hidden">
           <img
-            src="../src/assets/perfil.jpg"
+            src={Perfil}
             alt="Perfil Image"
             className="w-full h-full object-cover rounded-full"
           />
